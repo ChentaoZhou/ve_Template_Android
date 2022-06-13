@@ -1,1 +1,53 @@
-skfsjlfsjflsdjfdlsjlfjsfjlsdfjdsljfdjsfjdslfjsfjlsjfsjflsjfldsljf
+{
+  "license": {
+    "profile": "eyJBcHBJZCI6IjM1MDU3NyIsIkFwcE5hbWVzIjpbImNvbS52b2xjZW5naW5lLm1hcnMiLCJjb20udm9sY2VuZ2luZS5tYXJzLmluaG91c2UiXSwiTW9kdWxlcyI6eyJNYXJzX21pbmlhcHBfc2RrIjp7IkZlYXR1cmVzIjp7ImJhc2ljIjp7IkV4cGlyYXRpb24iOjE3MTYzNjY0NTV9LCJzdGFuZGFyZCI6eyJFeHBpcmF0aW9uIjoxNzE2MzY2NDU1fX19LCJmbHV0dGVyX2VuZ2luZSI6eyJGZWF0dXJlcyI6eyJiYXNpYyI6eyJFeHBpcmF0aW9uIjoxNzE2MDEyOTI1fX19fX0=",
+    "signature": "dRCx4rwpQ7tzWHR7Nu1vmgiF90LedWHUIQ+MKPuer3yasfp4irbCwkvSryJ1UYoXVYUFn02dQ2OtvJV3FzqYRR9+yL1Imdb6gdXaLkmlwmVgMeFLyWs5pcK3rmI36geb9BlIWu15c9/kL+ts4aIaO2DGbCHk+drnatIWAi4xckw=",
+    "version": 8
+  },
+  "project_info": {
+    "ak": "1ed9b5f070d42c79b137babd432a3bdb",
+    "app_id": 350577,
+    "privacy_mode": false,
+    "sk": "f0474207601ea37fb2b9d4d93868ef2a"
+  },
+  "services": {
+    "update": {
+      "host": "https://release-api.vemarsdev.com"
+    },
+    "hotfix": {
+      "host": "https://dispatch-api-online.vemarsdev.com"
+    },
+    "plugin": {
+      "host": "https://dispatch-api-online.vemarsdev.com"
+    },
+    "h5": {
+      "js_host": "https://jsbridge.vemarsdev.com",
+      "gecko_host": "https://gecko.vemarsdev.com"
+    },
+    "sdk_monitor": {
+      "host": "https://dispatch-api-online.vemarsdev.com"
+    },
+    "remote_config": {
+      "host": "https://dispatch-api-online.vemarsdev.com"
+    },
+    "push": {
+      "host": "https://push-open-api.vemarsdev.com"
+    },
+    "device": {
+      "host": "https://dispatch-api-online.vemarsdev.com"
+    },
+    "campaign": {
+      "host": "https://delivery-open.vemarsdev.com"
+    },
+    "license": {
+      "host": "https://dispatch-api-online.vemarsdev.com"
+    },
+    "safe_keyboard": {
+      "host": "https://security-api.vemarsdev.com"
+    },
+    "bdp_app": {
+      "host": "aHR0cHM6Ly9taWNyb2FwcC52b2xjZXMuY29t"
+    }
+  },
+  "version": 1
+}
